@@ -1,0 +1,21 @@
+DB - blaine_procurement
+TBL - material_source, material_source_list
+
+*** MATERIAL SOURCE ***
+id (int 11 'Auto Increment') 
+reference_no (varchar 255)
+company (varchar 255)
+date (date)
+date_recquired (date)
+
+** EMAIL ** 
+
+
+
+STATUS
+OPEN: SUPERIOR 
+ACTION RECQUIRED : PROCUREMENT / SUPERIOR . 
+CLOSE
+    
+
+    EQUAL TO PROCUREMENT ID.
